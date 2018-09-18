@@ -1,0 +1,9 @@
+//
+//  Use this file to import your target's public headers that you would like to expose to Swift.
+//
+
+#import <GoogleSignIn/GoogleSignIn.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+/*#import <linkedin-sdk/LISDK.h>
+#import <LinkedinSwift/LSHeader.h>*/
